@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carlosmerinosrz/buenas-practicas/issues"
   },
-  "homepage": "https://github.com/carlosmerinosrz/buenas-practicas#readme"
+  "homepage": "https://github.com/carlosmerinosrz/buenas-practicas#readme",
+  "dependencies": {
+    "vue": "^3.4.21"
+  }
 }
